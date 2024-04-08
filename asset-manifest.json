@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.80a2fd52.css",
-    "main.js": "/static/js/main.183d3b15.js",
-    "static/media/logo2.png": "/static/media/logo2.4f400ce2175f97367487.png",
-    "service-worker.js": "/service-worker.js",
-    "static/media/bluetooth-icon.svg": "/static/media/bluetooth-icon.c05bb6fba5e1386d7def2dc321f59b0a.svg",
-    "index.html": "/index.html",
-    "main.80a2fd52.css.map": "/static/css/main.80a2fd52.css.map",
-    "main.183d3b15.js.map": "/static/js/main.183d3b15.js.map"
+    "main.css": "/RollTime/static/css/main.1f9b7cd3.css",
+    "main.js": "/RollTime/static/js/main.039ac5ea.js",
+    "static/media/logo2.png": "/RollTime/static/media/logo2.4f400ce2175f97367487.png",
+    "service-worker.js": "/RollTime/service-worker.js",
+    "static/media/bluetooth-icon.svg": "/RollTime/static/media/bluetooth-icon.c05bb6fba5e1386d7def2dc321f59b0a.svg",
+    "index.html": "/RollTime/index.html",
+    "main.1f9b7cd3.css.map": "/RollTime/static/css/main.1f9b7cd3.css.map",
+    "main.039ac5ea.js.map": "/RollTime/static/js/main.039ac5ea.js.map"
   },
   "entrypoints": [
-    "static/css/main.80a2fd52.css",
-    "static/js/main.183d3b15.js"
+    "static/css/main.1f9b7cd3.css",
+    "static/js/main.039ac5ea.js"
   ]
 }
