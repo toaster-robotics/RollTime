@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/RollTime/static/css/main.1f9b7cd3.css",
-    "main.js": "/RollTime/static/js/main.40f5608c.js",
+    "main.js": "/RollTime/static/js/main.f8a49cec.js",
     "static/media/logo2.png": "/RollTime/static/media/logo2.4f400ce2175f97367487.png",
     "service-worker.js": "/RollTime/service-worker.js",
     "static/media/bluetooth-icon.svg": "/RollTime/static/media/bluetooth-icon.c05bb6fba5e1386d7def2dc321f59b0a.svg",
     "index.html": "/RollTime/index.html",
     "main.1f9b7cd3.css.map": "/RollTime/static/css/main.1f9b7cd3.css.map",
-    "main.40f5608c.js.map": "/RollTime/static/js/main.40f5608c.js.map"
+    "main.f8a49cec.js.map": "/RollTime/static/js/main.f8a49cec.js.map"
   },
   "entrypoints": [
     "static/css/main.1f9b7cd3.css",
-    "static/js/main.40f5608c.js"
+    "static/js/main.f8a49cec.js"
   ]
 }
